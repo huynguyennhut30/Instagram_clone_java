@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/Instagram/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/Instagram/app/src/main/res/drawable/button_background.xml" value="0.145" />
+        <entry key="..\:/Android/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_add.xml" value="0.145" />
+        <entry key="..\:/Android/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_add_story.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/AndroidStudioProjects/Instagram/app/src/main/res/menu/post_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/drawable/edittext_background.xml" value="0.2165" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2165" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_add_story.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_comments.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_edit_profile.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_login.xml" value="0.19429347826086957" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_options.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_register.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_start.xml" value="0.1203125" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/activity_story.xml" value="0.25" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/add_story_item.xml" value="0.19429347826086957" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/comment_item.xml" value="0.33" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/fragment_home.xml" value="0.19429347826086957" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/fragment_notification.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/fragment_post_detail.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/photo_item.xml" value="0.33" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/post_item.xml" value="0.16" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/story_item.xml" value="0.33" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/layout/user_item.xml" value="0.209375" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/menu/bottom_menu.xml" value="0.22" />
+        <entry key="..\:/STU/Semester 1 year 4/DACN/Instagram/app/src/main/res/menu/post_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
